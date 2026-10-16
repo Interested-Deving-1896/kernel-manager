@@ -61,6 +61,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@ventureoo](https://github.com/ventureoo) | 4 |
 | [@1Naim](https://github.com/1Naim) | 3 |
 | [@arighi](https://github.com/arighi) | 2 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 2 |
 | [@playmr365](https://github.com/playmr365) | 2 |
 | [@juliagoda](https://github.com/juliagoda) | 2 |
 | [@Adjudicator069](https://github.com/Adjudicator069) | 1 |
@@ -71,7 +72,6 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@88572](https://github.com/88572) | 1 |
 | [@Dymkom](https://github.com/Dymkom) | 1 |
 | [@Rain-Clear](https://github.com/Rain-Clear) | 1 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 1 |
 | [@julionc](https://github.com/julionc) | 1 |
 | [@MarongHappy](https://github.com/MarongHappy) | 1 |
 | [@Mattyan89](https://github.com/Mattyan89) | 1 |
